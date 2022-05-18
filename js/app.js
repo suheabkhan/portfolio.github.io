@@ -52,7 +52,7 @@ $(document).ready(function () {
   let downloadBtn = document.querySelector("#download");
 
   downloadBtn.addEventListener("click", (e) => {
-    window.open("https://suheabkhan.github.io/portfolio.github.io/images/MyResume.pdf", "_blank");
+    window.open("portfolio.github.io/images/MyResume.pdf", "_blank");
   });
 
   let contactBtn = document.querySelector("#contactBtn");
