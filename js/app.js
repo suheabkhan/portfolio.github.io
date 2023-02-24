@@ -52,7 +52,7 @@ $(document).ready(function () {
   let downloadBtn = document.querySelector("#download");
 
   downloadBtn.addEventListener("click", (e) => {
-    window.open("/images/SuheabResume.pdf", "_blank");
+    window.open("/images/suheabResume.pdf", "_blank");
   });
 
   let contactBtn = document.querySelector("#contactBtn");
